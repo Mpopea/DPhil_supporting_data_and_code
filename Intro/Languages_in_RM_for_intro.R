@@ -1,4 +1,4 @@
-data<-read.csv(file.choose(), header=T, sep=";", fill=TRUE, encoding = "UTF-8") #choose RM_for_intro_graphs.csv
+data<-read.csv(file.choose(), header=T, sep=";", fill=TRUE, fileEncoding = "UTF-8-BOM") #choose RM_for_intro_graphs.csv
 
 attach(data)
 
