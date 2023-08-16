@@ -5,7 +5,7 @@ attach(data)
 library(ggplot2)
 library(tidyverse)
 library(dplyr)
-library(gghighlight)
+
 
 data_rev <- data%>% slice(6:12) #subsetting magazines of the revolution for highlighting in plots
 
