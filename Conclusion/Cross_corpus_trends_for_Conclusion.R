@@ -4,8 +4,6 @@ attach(data)
 library(ggplot2)
 library(tidyverse)
 library(dplyr)
-#library(data.table) -> if necessary for fig 6.4
-#library(tidyr) -> if necessary for fig 6.4
 
 
 data$title<-factor(data$title, levels=unique(data$title))
