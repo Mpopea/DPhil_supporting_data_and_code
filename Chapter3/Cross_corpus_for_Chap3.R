@@ -36,7 +36,7 @@ ggplot(data,aes(x=title,y=percentage_of_transl_in_total))+
 
 
 
-#Bonus: El Maestro also contains the highest number of translated texts per issue, but it is worth keeping in mind the fact that the magazine is much longer than many other magazines (notably the Revista Azul, Revista Moderna, and Pegaso), and its contributions are shorter than those in some similarly-sized publications (e.g. Contemporaneos). 
+#Bonus: El Maestro also contains the highest number of translated texts per issue, in average, but it is worth keeping in mind the fact that the magazine is much longer than many other magazines (notably the Revista Azul, Revista Moderna, and Pegaso), and its contributions are shorter than those in some similarly-sized publications (e.g. Contemporaneos). 
 #This is why I consider the proportion of page space as the best indicator of the overall amount of translation in a magazine.
 #A computation of the proportion of contributions that are translations would be an interesting complement to this, but I do not currently have the necessary data (that is, a contributions count for each magazine/issue) for this.
 
