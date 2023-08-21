@@ -5,5 +5,5 @@ While the general quality of the data appears to be good, I have found, by coinc
 
 I have then computed a count of the number of pieces per author - translations were not considered as part of the count.
 
-While I made sure that the data was clean enough to produce meaningful, definite results when producing the figure 5.1 as it appears in my appendix, I have since gone over the data and done another round of cleaning (as some names appear with different spellings, etc.)
+While I made sure that the data was clean enough to produce meaningful, definite results when generating figure 5.1 as it appears in my appendix, I have since gone over the data and done another round of cleaning (as some names appear with different spellings, etc.)
 This has confirmed my initial results - the only difference is that Helen Louise Birch is now among the 93rd percentile, and Yvor Winters is ranked higher than previously, which does not change my conclusions in any way.
