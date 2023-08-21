@@ -1,0 +1,49 @@
+﻿num_ID;yr;num;month;year;Texto traducido;gen;autor;lengori;traductor;iniper;ext
+1;1;1;6;1928;La inocente aventura del Trópico;prosa no ficcional;Charlie Raeburn;English;Enrique Gonzalez Rojo;21.05263158;18
+2;1;2;7;1928;no hay;no hay;no hay;no hay;no hay;0;no hay
+3;1;3;8;1928;"""Fragmentos sobre Chirico""";prosa no ficcional;Juan Cocteau;French;Anonymous;35.34482759;4
+3;1;3;8;1928;"""Cirugía estética""";prosa ficcional;Apollinaire;French;Jaime Torres Bodet;93.96551724;3
+4;2;4;9;1928;"""Pequeños textos, Comentarios de Grabados""  (""La madre joven,"" ""El hombre volador,"" ""La cazadora,"" ""La amazona"" y ""El atentado"")";poesia;Paul Valéry;French;Gilberto Owen;21.2962963;6
+5;2;5;10;1928;"""El campo""";prosa ficcional;Nathan Asch;English;Celestino Gorostiza;34.61538462;16
+6;2;6;11;1928;"""El Matrimonio del Cielo y del Infierno""";mixto;Blake;English;Xavier Villaurrutia;1.098901099;31
+7;2;7;12;1928;no hay;no hay;no hay;no hay;no hay;0;no hay
+8;3;8;1;1929;no hay;no hay;no hay;no hay;no hay;0;no hay
+9;3;9;2;1929;Nuevos datos para la biografía de Sor Juana;prosa no ficcional;Dorothy Schons;English;Anonymous;70.65217391;16
+10;3;10;3;1929;"""El Regreso del Hijo Pródigo""";prosa ficcional;Gide;French;Xavier Villaurrutia;53.40909091;26
+11;4;11;4;1929;Leyendas Zapotecas;prosa ficcional;colectivo;Zapotec;Andres Henestrosa;15.95744681;8
+11;4;11;4;1929;"""La Conversación""";prosa no ficcional;André Maurois;French;Jose Gorostiza;74.46808511;15
+12;4;12;5;1929;Antiguos cantares mexicanos;poesia;colectivo;Nahuatl;Mariano Rojas;4.166666667;20
+12;4;12;5;1929;La poesía de Paul Eluard;poesia;Éluard;French;Jorge Cuesta;35.41666667;7
+13;4;13;6;1929;"""Amadeo y los Caballeros en Fila, Misterio en un acto""";drama;Jules Romains;French;Julio Jimenez Rueda;28.75;25
+13;4;13;6;1929;El Chilam-balam de Chumayel;inclasificable;[códice maya];Maya;Antonio Mediz Bolio ;60;17
+14;4;14;7;1929;Retrato de Charles Chaplin;prosa no ficcional;Waldo Frank ;English;Anonymous;19.76744186;20
+15;5;15;8;1929;"""De la velocidad""";prosa no ficcional;Paul Morand;French;Antonieta Rivas;43.75;25
+16;5;16;9;1929;no hay;no hay;no hay;no hay;no hay;0;no hay
+17;5;17;10;1929;no hay;no hay;no hay;no hay;no hay;0;no hay
+18;5;18;11;1929;"""Los Fieles"" (tragedia en tres actos";drama;John Masefield;English;Enrique Diez-Canedo / Martin Luis Guzman;5.208333333;48
+18;5;18;11;1929;"""La poesía de D.H.Lawrence""";prosa no ficcional;John Gould Fletcher;English;Enrique Munguia jr.;85.41666667;06.avr
+19;5;19;12;1929;"""Los Fieles"" (tragedia en tres actos";drama;John Masefield;English;Enrique Diez-Canedo / Martin Luis Guzman;19.35483871;68
+20;6;20;1;1930;no hay;no hay;no hay;no hay;no hay;0;no hay
+21;6;21;2;1930;"""Prólogo a Los de Abajo""";prosa no ficcional;Valery Larbaud;French;Bernardo Ortiz de Montellano;32.29166667;17
+22;6;22;3;1930;"""Nota sobre la estética de Proust""";prosa no ficcional;Ramón Fernández;French;Xavier Villaurrutia;87.5;11
+23;7;23;4;1930;"""La conversación""";prosa no ficcional;André Maurois;French;Jose Gorostiza;49.47368421;19
+24;7;24;5;1930;no hay;no hay;no hay;no hay;no hay;0;no hay
+25;7;25;6;1930;no hay;no hay;no hay;no hay;no hay;0;no hay
+26;8;26-27;8;1930;"""Conversación sobre la poesía (fragmentos)""";prosa no ficcional;Valéry;French;Bernardo Ortiz de Montellano;1.063829787;4
+26;8;26-27;8;1930;"""El Páramo""";poesia;T.S. Eliot;English;Enrique Munguia jr.;5.319148936;26
+27;8;28-29;10;1930;no hay;no hay;no hay;no hay;no hay;0;no hay
+28;8;30-31;12;1930;"""La huida a Egipto""";drama;Thornton Wilder;English;Octavio Barreda;64.77272727;5
+29;9;32;1;1931;"""Anabasis""";poesia;St. J. Perse;French;Octavio Barreda;1.041666667;37
+30;9;33;2;1931;"""Los Hombres Huecos""";poesia;T.S. Eliot;English;Leon Felipe;37.5;5
+31;9;34;3;1931;"""Mañanas de México, Día de mercado""";prosa ficcional;D.H. Lawrence;English;Octavio Barreda;43.18181818;14
+31;9;34;3;1931;Cinema y teatro;prosa no ficcional;Anton Giulio Bragaglia;Italian;Anonymous;65.90909091;25
+32;10;35;4;1931;no hay;no hay;no hay;no hay;no hay;0;no hay
+33;10;36;5;1931;"""Para la Historia del Teatro Danés""";prosa no ficcional;Massimo Bontempelli;Italian;Xavier Villaurrutia;6.315789474;10
+33;10;36;5;1931;"""Principios de la Forma Fílmica""";prosa no ficcional;S.M. Eisenstein;Russian;Aragon Leiva;21.05263158;20
+33;10;36;5;1931;"""La Torre de Ironía"" (Jorge Santayana""";prosa no ficcional;Carl Van Doren;English;Octavio Barreda;72.63157895;16.juil
+34;10;37;6;1931;no hay;no hay;no hay;no hay;no hay;0;no hay
+35;11;38-39;8;1931;"""Chuquicamata""";prosa no ficcional;Waldo Frank ;English;Leon Felipe;27.67857143;21
+35;11;38-39;8;1931;"""El Alma Humana y el Realismo""";prosa no ficcional;Franz Werfel;German;E. Luquin;77.67857143;18
+36;11;40-41;10;1931;"""Yo también"" ""Poema"" ""Plegaria"" ""Nota de un suicida""";poesia;Langston Hughes;English;Xavier Villaurrutia;46.875;3
+36;11;40-41;10;1931;"""La Enferma"" ""Los ojos de la muerta"" ""EL buey""";poesia;Jules Supervielle;French;Rafael Alberti;67.70833333;4
+37;11;42-43;12;1931;no hay;no hay;no hay;no hay;no hay;0;no hay
